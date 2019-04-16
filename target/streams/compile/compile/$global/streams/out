@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0mC:\Users\Mobolaji.Aina\Documents\scala\office_daily_data_sync\src\main\scala\OfficeServer.scala:13:12: comparing values of types Int and Null using `==' will always yield false[0m
+[0m[[0m[33mwarn[0m] [0m[0m  if((port == null || port.toString().isEmpty())){[0m
+[0m[[0m[33mwarn[0m] [0m[0m           ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
